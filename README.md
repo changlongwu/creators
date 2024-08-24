@@ -34,6 +34,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+the website is: https://66ca0e15882f3d16fdc737e9--thunderous-monstera-bc5b60.netlify.app/
+
 Here's a walkthrough of implemented required features:
 
 👉🏿<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
